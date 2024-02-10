@@ -1,0 +1,71 @@
+{
+    "categories":[
+        {
+            "value":40,
+            "heading":"Laptiops",
+            "color":"rgb(0,115,255)"
+        },
+        {
+            "value":100,
+            "heading":"Shoes",
+            "color":"rgb(0,198,202)"
+        },
+        {
+            "value":80,
+            "heading":"Cameras",
+            "color":"rgb(255 196 0)"
+        },
+      
+       
+        {
+            "value":60,
+            "heading":"Jeanss",
+            "color":"rgb(0,115,255)"
+        }
+
+    ],
+    "transaction":[
+        {
+            "id":"Nilay1",
+            "amount":40000,
+            "quantity":3,
+            "discount":300,
+            "status":"Processing"
+        },
+        {
+            "id":"Nilay2",
+            "amount":3000,
+            "quantity":4,
+            "discount":200,
+            "status":"Processing"   
+        },
+        {
+            "id":"Nilay3",
+            "amount":4000,
+            "quantity":4,
+            "discount":300,
+            "status":"Processing"
+        },
+        {
+            "id":"Nilay3",
+            "amount":4000,
+            "quantity":4,
+            "discount":300,
+            "status":"Processing"
+        },
+        {
+            "id":"Nilay3",
+            "amount":4000,
+            "quantity":4,
+            "discount":300,
+            "status":"Processing"
+        },
+        {
+            "id":"Nilay4",
+            "amount":4000,
+            "quantity":4,
+            "discount":300,
+            "status":"Processing"
+        }
+    ]
+}
